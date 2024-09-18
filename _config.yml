@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Dean (Website Forme)
+remote_theme: pages-themes/slate@v0.2.0
+plugins: jekyll-remote-theme
+title: Dean's Site
 description: Who could it be now?
